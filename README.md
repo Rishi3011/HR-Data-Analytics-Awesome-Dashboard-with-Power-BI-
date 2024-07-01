@@ -1,7 +1,7 @@
 # HR Data Analytics Awesome Dashboard with Power-BI.
 
 Analyze HR (Human Resources) data and create stunning dashboards using Power BI
-1.Loading data into Power BI and cleaning it with Power Query
+◈ Loading data into Power BI and cleaning it with Power Query
 ◈ Creating HR metrics like headcount, avg. leave balance, avg. salary etc. with Power Pivot
 ◈ Adding columns to the data (like Employee's first name, age group etc.)
 ◈ Finding relationships between salary and education qualification
